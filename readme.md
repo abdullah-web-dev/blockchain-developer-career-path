@@ -2,9 +2,9 @@
 
 ## Week - 1: Learn Fundamentals of Blockchain
 
-- What is Blockchain: https://www.youtube.com/watch?v=2yJqjTiwpxM [x]
-- Introduction: https://www.geeksforgeeks.org/introduction-to-blockchain/?ref=lbp
-- How does a blockchain work: https://www.youtube.com/watch?v=SSo_EIwHSd4
+- What is Blockchain: https://www.youtube.com/watch?v=2yJqjTiwpxM [X]
+- Introduction: https://www.geeksforgeeks.org/introduction-to-blockchain/?ref=lbp [X]
+- How does a blockchain work: https://www.youtube.com/watch?v=SSo_EIwHSd4 [X]
 - Bitcoin White Paper: https://bitcoin.org/bitcoin.pdf
 - What is Cryptography: https://www.geeksforgeeks.org/cryptography-introduction/
   - Cryptography: https://www.youtube.com/watch?v=2sPpuMclSQU
